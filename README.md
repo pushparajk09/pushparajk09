@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pushparajk09
 - 👀 I’m interested in ...Web develolpment
-- 🌱 I’m currently learning ...Front end
+- 🌱 I’m currently learning ...Front end and Backend
 - 💞️ I’m mastering ... Data Structures and Algorithms
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
